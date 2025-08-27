@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boghos Hamalian</h1>
-<h3 align="center">Senior Computer Science Student at Haigazian University</h3>
+<h3 align="center">Fresh Computer Science Graduate from Haigazian University</h3>
 
 - 📫 How to reach me **boghoshamalian@gmail.com**
 
