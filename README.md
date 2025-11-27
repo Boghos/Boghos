@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Boghos Hamalian<br>Fresh Computer Science Graduate from Haigazian University
+👋 Hi, my name is Boghos Hamalian<br>Fresh Computer Science Graduate from Haigazian University <br> Full-stack MERN Developer
 
 
 ## 🌐 Socials:
